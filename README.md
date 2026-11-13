@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vlart (Cavtea Artiom)
 - 👀 I’m interested in Web Tech / FrontEnd
-- 🌱 I’m currently workingas a FE Dev using React / TS / JS / Svelte / NodeJS / 
+- 🌱 I’m currently workingas a FullStack Engineer using React / TS / JS / Svelte / NodeJS / Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
