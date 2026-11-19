@@ -6,7 +6,7 @@ My main focus is **frontend engineering**, but I enjoy working beyond the UI —
 
 I build scalable web applications with a focus on frontend architecture, performance, and great user experiences.
 
-- 🏗️ **Engineering:** React, TypeScript, Next.js, Node.js, frontend architecture
+- 🏗️ **Engineering:** React, TypeScript, Next.js, frontend architecture, Node.js, Python
 - 🧪 **Quality:** Testing, accessibility, maintainability
 - 🤖 **Exploring:** AI-assisted development, coding agents, MCP
 - 🚀 **Interests:** Developer tools, web products, and open source
