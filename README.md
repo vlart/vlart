@@ -1,6 +1,8 @@
 ## Hi, I'm Artiom 👋
 
-**Senior Frontend Engineer | React · TypeScript · Next.js**
+**Senior Frontend Engineer | React · TypeScript · Next.js · Python**
+
+My main focus is **frontend engineering**, but I enjoy working beyond the UI — exploring architecture, backend integrations, developer tooling, and ways to make complex systems simpler. 
 
 I build scalable web applications with a focus on frontend architecture, performance, and great user experiences.
 
